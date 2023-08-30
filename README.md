@@ -15,8 +15,9 @@ La DenyList est une méthode révocation de Token JWT, en gros à chaque fois qu
 
 - rails g model jwt_denylist jti:string exp:datetime
 
-### Devise API JWT Controllers for Sessions and Registrations 🧒
-#### Créer le fichier members_controller.rb
-La méthode show permettra de s’authentifier avec un token à la place de l’email et du password
+### Faker
+Création d'articles avec la gem 'faker' dans le seed.
+
+
 
 
